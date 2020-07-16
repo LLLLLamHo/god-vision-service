@@ -1,0 +1,19 @@
+{
+  "name": "god-vision-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LLLLLamHo/god-vision-service.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LLLLLamHo/god-vision-service/issues"
+  },
+  "homepage": "https://github.com/LLLLLamHo/god-vision-service#readme"
+}
